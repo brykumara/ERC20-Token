@@ -1,5 +1,5 @@
 # ERC20-Token
-This is a submission I made for the individual coursework of COMP0163 Blockchain Technologies at UCL during the first half of my master's degree in November 2021. \
+This is a submission I made for the individual coursework of COMP0163 Blockchain Technologies at UCL during the first half of my master's degree in November 2021. The final grade of this coursework was 69, a merit classification.\
 The task was to create a token with the following features:
 1. Mintability: The token can be minted (increasing supply). Only a minter can mint the token and the original minter is the contract creator. A minter can transfer "mintership" to another address.
 2. Burnability: The token can be burned (reducing supply)
